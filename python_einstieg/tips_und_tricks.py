@@ -30,3 +30,11 @@ meine_neue_liste.remove(10) # löscht die erste 10
 meine_neue_liste.append(1000) # fügt eine 1000 hinzu
 
 meine_neue_liste
+
+# Typumwandlung
+my_string = "54"
+my_int = int(my_string)
+my_float = float(my_string)
+
+my_new_string = str(my_int)
+
