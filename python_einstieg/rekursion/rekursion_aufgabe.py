@@ -1,6 +1,6 @@
 # Definiere eine rekursive Funktion die n-te Fibonacci Nummer ausgibt (schwer)
 def fibonacci(n):
-    if n <= 2:
+    if n <= 5:
         return n
     else:
         return (fibonacci(n-1) + fibonacci(n-2))
