@@ -4,7 +4,7 @@ def factorial(n):
     if n < 2:
         return 1  # Anker
     else:
-        return n * factorial(n - 1)  # Rekursiver Aufruf
+        return n * factorial(n - 1)  # Rekursiver Aufruf: 6! = 6 * 5!
 
 
 print(factorial(3))
