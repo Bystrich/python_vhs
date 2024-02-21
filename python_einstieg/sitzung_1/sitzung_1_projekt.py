@@ -1,2 +1,2 @@
-# Schreiben sie ein Programm, mit dem der Nutzer zwei (ganze) Zahlen addieren, multiplizieren, subtrahieren oder
-# dividieren kann.
+# Schreibe ein Programm, mit dem du zwei (ganze) Zahlen addieren, multiplizieren, subtrahieren oder
+# dividieren kannst.
