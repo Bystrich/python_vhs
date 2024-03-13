@@ -1,6 +1,7 @@
-# Definiere eine rekursive Funktion die n-te Fibonacci Nummer ausgibt (schwer)
+# Schreibe eine Funktion die ein Quadrat beliebiger Kantenlänge aus einem gewählten Zeichen ausgibt
 
-def fibonacci(n):
-  return 1
 
-print (fibonacci(4)) # sollte 3 ausgeben (denn die sequence ist 0, 1, 1, 2, 3, 5, 8 usw.)
+# Schreibe eine Funktion die überprüft ob zwei bestimmte Buchstaben in einem Wort gleich sind. So sollte z.B. print(gleiche_buchstaben("programmierer", 6, 7)) True ausgeben
+
+def gleiche_buchstaben(wort, b_1, b_2):
+    return False
